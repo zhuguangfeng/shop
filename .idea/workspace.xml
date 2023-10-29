@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe85984b-995b-4131-9108-e4854f71c978" name="更改" comment="">
-      <change beforePath="$PROJECT_DIR$/user/user.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/user.pb.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user/user_grpc.pb.go" beforeDir="false" afterPath="$PROJECT_DIR$/user/user_grpc.pb.go" afterDir="false" />
-    </list>
+    <list default="true" id="fe85984b-995b-4131-9108-e4854f71c978" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +69,6 @@
     </option>
   </component>
   <component name="VgoProject">
-    <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
   </component>
 </project>
