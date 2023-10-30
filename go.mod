@@ -1,4 +1,4 @@
-module src_proto
+module github.com/srv_proto
 
 go 1.21.3
 
