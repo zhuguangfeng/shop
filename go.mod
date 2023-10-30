@@ -1,4 +1,4 @@
-module github.com/srv_proto
+module github.com/zhuguangfeng/shop
 
 go 1.21.3
 
